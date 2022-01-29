@@ -1,6 +1,6 @@
 ## Hi there, I'm Pragati 👋
 
-### I'm a Sophomore at Electrical Engineering, CoEP! Web Development! Tech enthusiast! 
+### I'm a Third Year Student at Electrical Engineering, CoEP! Web Developer! Tech enthusiast! 
 - ✨ I’m currently learning everything🤣
 - 📌 Ask me about Web Development(MERN), C++/Python programming.
 - 📩 Reach me at pragatinarote11@gmail.com.
